@@ -20,7 +20,6 @@
       "homepage": "https://rootraiz.site"
     }
   ],
-  "minimum-stability": "dev",
   "scripts": {
     "test": "./vendor/bin/phpunit --configuration ./phpunit.xml --colors=always"
   },
