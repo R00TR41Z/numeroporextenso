@@ -1,6 +1,6 @@
 # Número por extenso
 
-### Converte numeral em valor por extenso.
+### Converte numeros em valor por extenso.
 ### Suporte para as seguintes moedas:
 - Metical - Moçambicano
 - Real - Brazileiro
