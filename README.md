@@ -1,13 +1,18 @@
 # Número por extenso
 
-Converte numeral em valor por extenso.
+### Converte numeral em valor por extenso.
+### Suporte para as seguintes moedas:
+- Metical - Moçambicano
+- Real - Brazileiro
+- Euro - Portugues
+- Kwanza - Angolano
 
 ### Como usar:
 
-https://packagist.org/packages/wgenial/numeroporextenso
+https://packagist.org/packages/r00tr41z/numeroporextenso
 
 ```bash
-composer require R00TR41Z/numeroporextenso
+composer require r00tr41z/numeroporextenso
 ```
 #Metical
 
