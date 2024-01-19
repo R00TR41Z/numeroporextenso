@@ -1,0 +1,35 @@
+{
+  "name": "wgenial/numeroporextenso",
+  "description": "Converte numeral em valor por extenso.",
+  "keywords": [
+    "numero",
+    "extenso",
+    "moeda"
+  ],
+  "type": "package",
+  "version": "v1.0.0",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/R00TR41Z/numeroporextenso/issues",
+    "source": "https://github.com/R00TR41Z/numeroporextenso"
+  },
+  "authors": [
+    {
+      "name": "RootRaiz",
+      "email": "rootraiz.dev@gmail.com",
+      "homepage": "https://rootraiz.site"
+    }
+  ],
+  "minimum-stability": "dev",
+  "scripts": {
+    "test": "./vendor/bin/phpunit --configuration ./phpunit.xml --colors=always"
+  },
+  "autoload": {
+    "psr-4": {
+      "R00TR41Z\\NumeroExtenso\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.5.x-dev"
+  }
+}
