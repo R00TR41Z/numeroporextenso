@@ -168,6 +168,11 @@ echo $negativo;
 ## Exemplos:
 Consulte o arquivo https://github.com/R00TR41Z/numeroporextenso/blob/master/example/index.php
 
+## Creditos 
+
+https://github.com/wgenial
+
+## Note: Esse pacote é uma replica da versão original https://github.com/wgenial/numeroporextenso-php 
 
 ## Afinal, o que é um número por extenso?
 > "Um número por extenso é a forma como um número qualquer é representado em determinada língua sem a utilização de algarismos, através de palavras ou combinação de palavras que representam os números, como por exemplo" [Wikipédia](https://pt.wikipedia.org/wiki/Número_por_extenso)
